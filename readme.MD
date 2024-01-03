@@ -32,12 +32,11 @@ pip install pgmpy pandas networkx matplotlib
     ```
 
 3. **Run the Code:**
+To explore and interact with the Bayesian Network, open the Jupyter Notebook `Simple_Bayesian_Network.ipynb`. Follow the instructions within the notebook to run cells sequentially, modify code, and analyze the Bayesian Network dynamically.
 
-    Execute the `bayesian_network.py` script to create the Bayesian Network, estimate Conditional Probability Tables (CPDs) using Maximum Likelihood Estimation, and visualize the network.
-
-    ```bash
-    python bayesian_network.py
-    ```
+   ```bash
+   jupyter notebook Simple_Bayesian_Network.ipynb
+   ```
 
 4. **View the Bayesian Network:**
 
