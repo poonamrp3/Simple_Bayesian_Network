@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with the provided Conditional Probability Tables (CPDs) included:
-
----
-
 # Bayesian Network Implementation with pgmpy
 
 This repository contains code for creating and visualizing a Bayesian Network using the `pgmpy` library in Python. Bayesian Networks are graphical models that represent probabilistic relationships among a set of variables. In this specific implementation, the Bayesian Network represents a series of events related to weather, traffic, accidents, and their impact on timing and relationships with friends.
@@ -160,10 +156,3 @@ The script uses a sample dataset represented as a Pandas DataFrame. It's importa
 - [networkx Documentation](https://networkx.github.io/)
 - [matplotlib Documentation](https://matplotlib.org/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to further modify the README as needed.
