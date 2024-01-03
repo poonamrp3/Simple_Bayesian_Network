@@ -22,7 +22,7 @@ pip install pgmpy pandas networkx matplotlib
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/poonamrp3/bayesian-network-pgmpy.git
+    git clone https://github.com/poonamrp3/Simple_Bayesian_Network.git
     ```
 
 2. **Navigate to the Project Directory:**
